@@ -1,9 +1,9 @@
 👋 Salom, men @DERTER  
-👀 Men kodlashga qiziqaman
-🌱 Men hozir c++, php, python tillarini o'rganyapman
-💞️ Men hamkorlik qilmoqchiman ...
-📫 Menga qanday muroja qilish mumkin  
----telegram : @i_am_that_abduaziz
+👀 Men kodlashga qiziqaman<br>
+🌱 Men hozir c++, php, python tillarini o'rganyapman<br>
+💞️ Men hamkorlik qilmoqchiman ...<br>
+📫 Menga qanday muroja qilish mumkin<br> 
+---telegram : @i_am_that_abduaziz<br>
 
 <!---
 DERTER2003/DERTER2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
