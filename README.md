@@ -1,6 +1,6 @@
 👋 Salom, men @DERTER  
 👀 Men kodlashga qiziqaman<br>
-🌱 Men hozir c++, php, python tillarini o'rganyapman<br>
+🌱 Men hozir c++, php, python , javaScript , c , node.js tilar bilan shug'ullanaman<br>
 💞️ Men hamkorlik qilmoqchiman ...<br>
 📫 Menga qanday muroja qilish mumkin<br> 
 ---telegram : @i_am_that_abduaziz<br>
